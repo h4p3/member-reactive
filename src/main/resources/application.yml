@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: member-reactive
+server:
+  port: 7788
+  servlet:
+    context-path: /mr
